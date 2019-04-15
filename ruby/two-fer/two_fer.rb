@@ -1,8 +1,5 @@
 class TwoFer
-  def self.two_fer(name)
-    if name
-      "One for #{name}, one for me."
-    else
-      'One for you, one for me.'
+  def self.two_fer(name = 'you')
+    "One for #{name}, one for me."
   end
 end
