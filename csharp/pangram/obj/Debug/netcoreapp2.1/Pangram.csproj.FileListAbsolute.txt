@@ -1,0 +1,14 @@
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.deps.json
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.runtimeconfig.json
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.runtimeconfig.dev.json
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.dll
+/Users/mbutera/Exercism/csharp/pangram/bin/Debug/netcoreapp2.1/Pangram.pdb
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.csprojAssemblyReference.cache
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.csproj.CoreCompileInputs.cache
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.AssemblyInfoInputs.cache
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.AssemblyInfo.cs
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.dll
+/Users/mbutera/Exercism/csharp/pangram/obj/Debug/netcoreapp2.1/Pangram.pdb
