@@ -1,12 +1,12 @@
 require 'pry'
 
 class Matrix
-  def initialize(matrix_string)
-    @matrix_string = matrix_string
+  def initialize(matrix)
+    @matrix = matrix
   end
 
   def rows
-    @matrix_string.split(/\n+/).map { |row| row.split(" ").map { |ch| ch.to_i } }
+    @matrix.each_line.map { |row| row.split(" ").map(&:to_i) }
   end
 
   def columns
