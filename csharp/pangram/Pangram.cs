@@ -10,7 +10,8 @@ public static class Pangram
         }
         else
         {
-          return false;
+          bool[] presence = new bool[26]
+          
         }
     }
 }
