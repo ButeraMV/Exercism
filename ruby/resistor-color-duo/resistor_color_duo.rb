@@ -1,7 +1,7 @@
 require 'pry'
 class ResistorColorDuo
   def self.value(colors)
-    colors.map { |color| BAND_COLORS[color] }.join.to_i
+    colors.map(&BAND_COLORS).join.to_i
   end
 
   BAND_COLORS = {

@@ -1,6 +1,6 @@
 class Complement
   def self.of_dna(dna)
-    dna.chars.map { |x| DNA_to_RNA[x] }.join
+    dna.gsub(/\w/, DNA_to_RNA)
   end
 
   DNA_to_RNA = {
@@ -8,5 +8,5 @@ class Complement
                 "C" => "G",
                 "T" => "A",
                 "A" => "U"
-                }
+               }
 end
